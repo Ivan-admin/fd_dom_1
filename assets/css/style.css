@@ -30,7 +30,6 @@
 .cardWrapper {
   display: flex;
   align-items: stretch;
-  /* border: 5px solid; */
   margin: 2rem 1rem;
 }
 
